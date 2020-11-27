@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86a521f5ddaa17f4ebcccb5643311283, type: 3}
+  m_Name: Sunny
+  m_EditorClassIdentifier: 
+  description: What a good day ! We can't have a better day than today to launch
+    a rocket !
+  accidentDescription: 'Despite a good weather and only 1% fail estimate
+
+    something
+    happen end we lost the signal of the rocket...'
+  minimumSuccessPercentage: 99
+  maximumSuccessPercentage: 100
+  triggerAnimatorParameters:
+  - sunny

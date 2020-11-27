@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86a521f5ddaa17f4ebcccb5643311283, type: 3}
+  m_Name: Wind
+  m_EditorClassIdentifier: 
+  description: 'Lot of wind today... I wonder if the rocket will not be destabilized.
+
+    Let''s
+    say 30-80% chance of success'
+  accidentDescription: As I feared the wind destabilized the rocket who finish his
+    life in the ocean...
+  minimumSuccessPercentage: 30
+  maximumSuccessPercentage: 80
